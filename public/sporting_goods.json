@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Basketball",
+        "price": 29.99,
+        "description": "Official size basketball suitable for indoor and outdoor use.",
+        "category": "basketball"
+    },
+    {
+        "id": 2,
+        "name": "Tennis Racket",
+        "price": 89.99,
+        "description": "Lightweight tennis racket with a durable frame for powerful shots.",
+        "category": "tennis"
+    },
+    {
+        "id": 3,
+        "name": "Soccer Ball",
+        "price": 25.99,
+        "description": "Standard size soccer ball with a reinforced exterior for better control.",
+        "category": "soccer"
+    },
+    {
+        "id": 4,
+        "name": "Running Shoes",
+        "price": 120.0,
+        "description": "High-performance running shoes with excellent cushioning and support.",
+        "category": "running"
+    },
+    {
+        "id": 5,
+        "name": "Basketball Net",
+        "price": 15.0,
+        "description": "Heavy-duty basketball net compatible with most standard hoops.",
+        "category": "basketball"
+    },
+    {
+        "id": 6,
+        "name": "Tennis Balls Pack",
+        "price": 12.99,
+        "description": "Pack of 3 high-bounce tennis balls for professional training.",
+        "category": "tennis"
+    },
+    {
+        "id": 7,
+        "name": "Soccer Cleats",
+        "price": 74.99,
+        "description": "Comfortable and durable soccer cleats for enhanced performance.",
+        "category": "soccer"
+    },
+    {
+        "id": 8,
+        "name": "Running Shorts",
+        "price": 30.0,
+        "description": "Breathable and lightweight running shorts with a flexible fit.",
+        "category": "running"
+    },
+    {
+        "id": 9,
+        "name": "Basketball Shoes",
+        "price": 110.0,
+        "description": "Supportive basketball shoes designed for stability and grip.",
+        "category": "basketball"
+    },
+    {
+        "id": 10,
+        "name": "Tennis Bag",
+        "price": 45.0,
+        "description": "Spacious tennis bag with compartments for rackets, balls, and accessories.",
+        "category": "tennis"
+    }
+]
